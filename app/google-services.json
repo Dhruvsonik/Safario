@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596626621774",
+    "project_id": "safario-tourist-app",
+    "storage_bucket": "safario-tourist-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596626621774:android:67c5681f443a4bb4430a1f",
+        "android_client_info": {
+          "package_name": "com.example.safario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFrDa9Cs1k9HNI9sD2CECRn6_sUL2Hb9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
