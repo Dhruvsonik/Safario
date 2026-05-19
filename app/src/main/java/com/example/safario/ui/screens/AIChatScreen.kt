@@ -129,7 +129,7 @@ fun AIChatScreen(
                     RetrofitInstance.api.getChatResponse(
 
                         authorization =
-                            "Bearer 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",
+                            "YOUR_API_KEY",
 
                         request = ChatRequest(
 
