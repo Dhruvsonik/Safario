@@ -182,13 +182,13 @@ Lovely Professional University
 ---
 
 ## 📄 License
-
 This project is developed for educational and learning purposes.
-<img width="360" height="720" alt="Screenshot_20260527_114608" src="https://github.com/user-attachments/assets/3f3ea674-05c9-4899-b71d-ef6d2fe58137" />
-<img width="360" height="720" alt="Screenshot_20260527_114618" src="https://github.com/user-attachments/assets/4b55edaa-0c9c-4c56-b53e-dd3602888b52" />
-<img width="360" height="720" alt="Screenshot_20260527_114622" src="https://github.com/user-attachments/assets/f733df5c-628c-4f58-b22d-15c79ff30cc7" />
-<img width="360" height="720" alt="Screenshot_20260527_114626" src="https://github.com/user-attachments/assets/a6ffed87-84f5-4dfc-891f-16b34701b125" />
-<img width="360" height="720" alt="Screenshot_20260527_114630" src="https://github.com/user-attachments/assets/6c54ae68-3970-42d4-9b80-ea5074bea26e" />
+
+<img width="100" height="300" alt="Screenshot_20260527_114608" src="https://github.com/user-attachments/assets/3f3ea674-05c9-4899-b71d-ef6d2fe58137" />
+<img width="100" height="300" alt="Screenshot_20260527_114618" src="https://github.com/user-attachments/assets/4b55edaa-0c9c-4c56-b53e-dd3602888b52" />
+<img width="100" height="300" alt="Screenshot_20260527_114622" src="https://github.com/user-attachments/assets/f733df5c-628c-4f58-b22d-15c79ff30cc7" />
+<img width="100" height="300" alt="Screenshot_20260527_114626" src="https://github.com/user-attachments/assets/a6ffed87-84f5-4dfc-891f-16b34701b125" />
+<img width="100" height="300" alt="Screenshot_20260527_114630" src="https://github.com/user-attachments/assets/6c54ae68-3970-42d4-9b80-ea5074bea26e" />
 
 
 
