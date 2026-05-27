@@ -184,6 +184,8 @@ Lovely Professional University
 ## 📄 License
 This project is developed for educational and learning purposes.
 
+---
+
 ## 📷 Screenshots
 <img width="150" height="400" alt="Screenshot_20260527_114608" src="https://github.com/user-attachments/assets/3f3ea674-05c9-4899-b71d-ef6d2fe58137" /> 
 <img width="150" height="400" alt="Screenshot_20260527_114618" src="https://github.com/user-attachments/assets/4b55edaa-0c9c-4c56-b53e-dd3602888b52" /> 
